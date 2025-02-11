@@ -5,9 +5,8 @@ import type React from 'react'; // Import React
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'Coming Soon | Innovate. Create. Elevate.',
-  description:
-    'Our exciting new project is coming soon! Be the first to know when we launch.',
+  title: 'Irzam Tour & Travel - Adventure Awaits – Go Find It!',
+  description: 'Adventure Awaits – Go Find It!',
 };
 
 export default function RootLayout({
