@@ -57,14 +57,7 @@ export default function ComingSoon() {
             >
               Coming Soon
             </motion.h1>
-            <motion.p
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-              transition={{ delay: 0.4, duration: 0.5 }}
-              className="text-xl mb-8 text-white text-center"
-            >
-              Irzam Tour & Travel
-            </motion.p>
+
             <motion.p
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
