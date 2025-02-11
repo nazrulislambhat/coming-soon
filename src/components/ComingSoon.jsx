@@ -53,7 +53,7 @@ export default function ComingSoon() {
               initial={{ opacity: 0, y: -20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.2, duration: 0.5 }}
-              className="text-4xl md:text-5xl font-bold mb-2 text-white text-center"
+              className="text-4xl md:text-5xl font-bold mb-6 text-white text-center"
             >
               Coming Soon
             </motion.h1>
@@ -61,9 +61,9 @@ export default function ComingSoon() {
               initial={{ opacity: 0 }}
               animate={{ opacity: 1 }}
               transition={{ delay: 0.4, duration: 0.5 }}
-              className="text-xl mb-6 text-white text-center"
+              className="text-xl mb-8 text-white text-center"
             >
-              Innovate. Create. Elevate.
+              Irzam Tour & Travel
             </motion.p>
             <motion.p
               initial={{ opacity: 0 }}
